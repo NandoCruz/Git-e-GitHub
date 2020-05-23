@@ -1,2 +1,2 @@
-# Git e GitHub
- Aulas de Git e GitHub do Cruso em Vídeo
+# git_GitHub
+ material do Curso Git e GitHub
