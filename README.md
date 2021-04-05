@@ -31,6 +31,6 @@ https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR
 ## 10. Serurança: Seu github mais seguro <br>
 https://www.youtube.com/watch?v=bsI6P_IM_hg&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=2
 
-## 11. [Git Branches de forma fácil e com exemplo] (https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=11)
+## 11. ![Git Branches de forma fácil e com exemplo] (https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=11)
 
-## 12. [Hospedagem Grátis no GitHub Pages] (https://www.youtube.com/watch?v=2Y0HXnYpn9E&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=10)
+## 12. ![Hospedagem Grátis no GitHub Pages] (https://www.youtube.com/watch?v=2Y0HXnYpn9E&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=10)
