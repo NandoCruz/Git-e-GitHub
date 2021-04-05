@@ -1,5 +1,5 @@
-# git_GitHub
- material do Curso Git e GitHub
+# Curso de Git e GitHub
+### material do Curso Git e GitHub do Professor Guanabara
 
 ## 1. O que é Git? <br> 
  https://www.youtube.com/watch?v=xEKo29OWILE&list=PLM8L_mzJDkm_HqNXCHBkDxik41oBTR00h&index=6&t=880s
